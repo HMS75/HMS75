@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm a passionate developer interested in backend web development, machine learning, and data structures. I enjoy building efficient and scalable applications.
 
-- 🔭 I’m working on a Pharmacy Drug Management System using Frontend (HTML, CSS, JS) and MySQL.
 - 🌱 I’m currently exploring advanced algorithms and data structures. 
 - 📫 How to reach me: shemamadhuri@gmail.com
 - 😄 Pronouns: She/Her
